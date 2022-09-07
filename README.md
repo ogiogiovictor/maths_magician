@@ -47,7 +47,7 @@ To get a local copy up and running follow these simple example steps.
 ```
 # Website URL - Github Pages
 The Webpage is now deployed using github pages. See url link below:
-coming soon
+The github URL is coming soon
 
 
 ## Authors
