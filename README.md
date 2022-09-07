@@ -28,7 +28,7 @@ To get a local copy up and running follw these simple example steps:
 
 ```
     - Clone the repo with git clone using the link below
-    - git clone https://github.com/ogiogiovictor/math_magician.git
+    - git clone https://github.com/ogiogiovictor/maths_magician.git
     - $ Once the report has been cloned change the project directory by cd into the directory
     - $ cd into the calculator from your teminal.
 ```
@@ -41,7 +41,7 @@ To get a local copy up and running follow these simple example steps.
 ### Setup
 ```
     - Clone the repo with git clone using the link below
-    - git clone https://github.com/ogiogiovictor/math_magician.git
+    - git clone https://github.com/ogiogiovictor/maths_magician.git
     - $ Once the report has been cloned change the project directory by cd into the directory
     - $ cd into the math magician folder from your teminal and run npm install
 ```
