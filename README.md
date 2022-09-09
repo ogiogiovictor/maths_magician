@@ -10,7 +10,6 @@
 - HTML
 - CSS (Flexbox|Grid)
 - Linters: Webhint, Stylelint & ESLint
-- Webpack 
 - ES6 module (Import/Export)
 - JSX
 - React
