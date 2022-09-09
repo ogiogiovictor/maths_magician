@@ -13,7 +13,6 @@ const Calculator = () => {
   };
 
   const act = (opr) => {
-    // console.log(operation)
     setState((state) => (calculate(state, opr)));
   };
 
