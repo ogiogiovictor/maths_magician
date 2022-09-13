@@ -1,0 +1,31 @@
+.main-haeder {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding-bottom: 40px;
+}
+
+.main-haeder ul {
+  font-size: large;
+}
+
+.main-haeder ul li {
+  list-style-type: none;
+  display: inline;
+  padding: 2vw;
+}
+
+.main-haeder ul li a {
+  cursor: pointer;
+  color: var(--bgwhite);
+}
+
+.main-haeder ul li a:hover {
+  color: brown;
+}
+
+.logo {
+  width: 90px;
+  height: 70px;
+}
