@@ -1,7 +1,7 @@
 import React, { useState, Fragment } from 'react';
-import Screen from './screen/screen';
-import Button from './button/button';
-import calculate from './logic/calculate';
+import Screen from '../screen/screen';
+import Button from '../button/button';
+import calculate from '../logic/calculate';
 
 import './calculator.css';
 
@@ -13,6 +13,7 @@ const Calculator = () => {
   };
 
   const act = (opr) => {
+    // console.log(operation)
     setState((state) => (calculate(state, opr)));
   };
 
